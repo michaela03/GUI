@@ -62,15 +62,20 @@ namespace Draw
 
 			ShapeList.Add(rect);
 		}
-		
-		/// <summary>
-		/// Проверява дали дадена точка е в елемента.
-		/// Обхожда в ред обратен на визуализацията с цел намиране на
-		/// "най-горния" елемент т.е. този който виждаме под мишката.
-		/// </summary>
-		/// <param name="point">Указана точка</param>
-		/// <returns>Елемента на изображението, на който принадлежи дадената точка.</returns>
-		public Shape ContainsPoint(PointF point)
+        public void AddEllipse(RectangleF bounds)
+        {
+            var ellipse = new EllipseShape(bounds);
+            // Set properties like color, etc., if needed
+            ShapeList.Add(ellipse);
+        }
+        /// <summary>
+        /// Проверява дали дадена точка е в елемента.
+        /// Обхожда в ред обратен на визуализацията с цел намиране на
+        /// "най-горния" елемент т.е. този който виждаме под мишката.
+        /// </summary>
+        /// <param name="point">Указана точка</param>
+        /// <returns>Елемента на изображението, на който принадлежи дадената точка.</returns>
+        public Shape ContainsPoint(PointF point)
 		{
 			for(int i = ShapeList.Count - 1; i >= 0; i--){
 				if (ShapeList[i].Contains(point)){

@@ -45,6 +45,7 @@
             this.MainColor = new System.Windows.Forms.ToolStripButton();
             this.OffColor = new System.Windows.Forms.ToolStripButton();
             this.GradientButton = new System.Windows.Forms.ToolStripButton();
+            this.Elipse = new System.Windows.Forms.ToolStripButton();
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
             this.colorDialog2 = new System.Windows.Forms.ColorDialog();
             this.colorDialog3 = new System.Windows.Forms.ColorDialog();
@@ -58,7 +59,6 @@
             this.trackBar1 = new System.Windows.Forms.TrackBar();
             this.label1 = new System.Windows.Forms.Label();
             this.viewPort = new Draw.DoubleBufferedPanel();
-            this.Elipse = new System.Windows.Forms.ToolStripButton();
             this.mainMenu.SuspendLayout();
             this.statusBar.SuspendLayout();
             this.speedMenu.SuspendLayout();
@@ -144,11 +144,11 @@
             this.speedMenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.drawRectangleSpeedButton,
             this.pickUpSpeedButton,
+            this.Elipse,
             this.toolStripButton1,
             this.MainColor,
             this.OffColor,
-            this.GradientButton,
-            this.Elipse});
+            this.GradientButton});
             this.speedMenu.Location = new System.Drawing.Point(0, 28);
             this.speedMenu.Name = "speedMenu";
             this.speedMenu.Size = new System.Drawing.Size(924, 27);
@@ -216,6 +216,16 @@
             this.GradientButton.Text = "toolStripButton2";
             this.GradientButton.Click += new System.EventHandler(this.GradientButton_Click);
             // 
+            // Elipse
+            // 
+            this.Elipse.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.Elipse.Image = ((System.Drawing.Image)(resources.GetObject("Elipse.Image")));
+            this.Elipse.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.Elipse.Name = "Elipse";
+            this.Elipse.Size = new System.Drawing.Size(29, 24);
+            this.Elipse.Text = "toolStripButton2";
+            this.Elipse.Click += new System.EventHandler(this.Elipse_Click);
+            // 
             // trackBar1
             // 
             this.trackBar1.Location = new System.Drawing.Point(8, 69);
@@ -248,16 +258,6 @@
             this.viewPort.MouseDown += new System.Windows.Forms.MouseEventHandler(this.ViewPortMouseDown);
             this.viewPort.MouseMove += new System.Windows.Forms.MouseEventHandler(this.ViewPortMouseMove);
             this.viewPort.MouseUp += new System.Windows.Forms.MouseEventHandler(this.ViewPortMouseUp);
-            // 
-            // Elipse
-            // 
-            this.Elipse.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.Elipse.Image = ((System.Drawing.Image)(resources.GetObject("Elipse.Image")));
-            this.Elipse.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.Elipse.Name = "Elipse";
-            this.Elipse.Size = new System.Drawing.Size(29, 24);
-            this.Elipse.Text = "toolStripButton2";
-            this.Elipse.Click += new System.EventHandler(this.Elipse_Click);
             // 
             // MainForm
             // 

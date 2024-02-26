@@ -162,7 +162,13 @@ namespace Draw
 
         private void Elipse_Click(object sender, EventArgs e)
         {
+            RectangleF ellipseBounds = new RectangleF(10, 10, 200, 100);
 
+            dialogProcessor.AddEllipse(ellipseBounds);
+
+            statusBar.Items[0].Text = "Последно действие: Рисуване на елипса";
+
+            viewPort.Invalidate();
         }
     }
 }
