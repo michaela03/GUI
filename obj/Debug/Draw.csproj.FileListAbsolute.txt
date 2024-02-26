@@ -1,0 +1,10 @@
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
