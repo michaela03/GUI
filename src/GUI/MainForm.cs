@@ -170,5 +170,19 @@ namespace Draw
 
             viewPort.Invalidate();
         }
+
+        private void toolStripButton2_Click(object sender, EventArgs e)
+        {
+            RectangleF triangleBounds = new RectangleF(10, 10, 100, 100); // Example bounds, adjust as needed
+            dialogProcessor.AddTriangle(triangleBounds);
+
+            statusBar.Items[0].Text = "Последно действие: Рисуване на триъгълник";
+            viewPort.Invalidate();
+        }
+
+        private void toolStripButton3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

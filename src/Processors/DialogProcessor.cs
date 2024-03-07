@@ -68,6 +68,21 @@ namespace Draw
             // Set properties like color, etc., if needed
             ShapeList.Add(ellipse);
         }
+
+        public void AddTriangle(RectangleF bounds)
+        {
+            TriangleShape triangle = new TriangleShape(bounds);
+            triangle.FillColor = Color.White; // Set default color or customize as needed
+            ShapeList.Add(triangle);
+        }
+
+        public void AddLine(PointF start, PointF end)
+        {
+            LineShape line = new LineShape(start, end);
+            line.FillColor = Color.Black; // Set the line color
+            ShapeList.Add(line);
+        }
+
         /// <summary>
         /// Проверява дали дадена точка е в елемента.
         /// Обхожда в ред обратен на визуализацията с цел намиране на

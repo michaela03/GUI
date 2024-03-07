@@ -72,8 +72,10 @@
     </Compile>
     <Compile Include="src\GUI\Program.cs" />
     <Compile Include="src\Model\Elipse.cs" />
+    <Compile Include="src\Model\LineShape.cs" />
     <Compile Include="src\Model\RectangleShape.cs" />
     <Compile Include="src\Model\Shape.cs" />
+    <Compile Include="src\Model\TriangleShape.cs" />
     <Compile Include="src\Processors\DialogProcessor.cs" />
     <Compile Include="src\Processors\DisplayProcessor.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

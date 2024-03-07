@@ -18,3 +18,13 @@ C:\Michaela\CVprojects\GUI\obj\Debug\Draw.csproj.GenerateResource.cache
 C:\Michaela\CVprojects\GUI\obj\Debug\Draw.csproj.CoreCompileInputs.cache
 C:\Michaela\CVprojects\GUI\obj\Debug\Draw.exe
 C:\Michaela\CVprojects\GUI\obj\Debug\Draw.pdb
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\bin\Debug\Draw.exe
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\bin\Debug\Draw.pdb
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.Properties.Resources.resources
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.MainForm.resources
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.exe
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.pdb
