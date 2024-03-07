@@ -21,5 +21,6 @@
 Проектът е разработен използвайки:
 
 - C#
-- .NET Framework
+- Windows Forms
+  
 
