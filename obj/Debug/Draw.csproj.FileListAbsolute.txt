@@ -1,30 +1,80 @@
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.AssemblyReference.cache
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
-C:\Michaela\CVprojects\GUI\bin\Debug\Draw.exe
-C:\Michaela\CVprojects\GUI\bin\Debug\Draw.pdb
-C:\Michaela\CVprojects\GUI\obj\Debug\Draw.csproj.AssemblyReference.cache
-C:\Michaela\CVprojects\GUI\obj\Debug\Draw.Properties.Resources.resources
-C:\Michaela\CVprojects\GUI\obj\Debug\Draw.DoubleBufferedPanel.resources
-C:\Michaela\CVprojects\GUI\obj\Debug\Draw.MainForm.resources
-C:\Michaela\CVprojects\GUI\obj\Debug\Draw.csproj.GenerateResource.cache
-C:\Michaela\CVprojects\GUI\obj\Debug\Draw.csproj.CoreCompileInputs.cache
-C:\Michaela\CVprojects\GUI\obj\Debug\Draw.exe
-C:\Michaela\CVprojects\GUI\obj\Debug\Draw.pdb
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\bin\Debug\Draw.exe
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\bin\Debug\Draw.pdb
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.csproj.AssemblyReference.cache
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.Properties.Resources.resources
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.DoubleBufferedPanel.resources
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.MainForm.resources
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.csproj.GenerateResource.cache
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.csproj.CoreCompileInputs.cache
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.exe
-C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\Paint_Project\GUI\obj\Debug\Draw.pdb
+C:\Users\ICO\Desktop\Project\trunk\CGProject\bin\Debug\Draw.exe
+C:\Users\ICO\Desktop\Project\trunk\CGProject\bin\Debug\Draw.pdb
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.exe
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.pdb
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.src.GUI.Dialog.resources
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\Ginadi\Desktop\2D_Draw_Shape-master\2D_Draw_Shape-master\bin\Debug\Draw.exe
+C:\Users\Ginadi\Desktop\2D_Draw_Shape-master\2D_Draw_Shape-master\bin\Debug\Draw.pdb
+C:\Users\Ginadi\Desktop\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\Ginadi\Desktop\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\Ginadi\Desktop\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.src.GUI.Dialog.resources
+C:\Users\Ginadi\Desktop\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\Ginadi\Desktop\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.MainForm.resources
+C:\Users\Ginadi\Desktop\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\Ginadi\Desktop\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Ginadi\Desktop\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.exe
+C:\Users\Ginadi\Desktop\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.pdb
+C:\Users\Ginadi\Desktop\ \Компютърна графика\2D_Draw_Shape-master\2D_Draw_Shape-master\bin\Debug\Draw.exe
+C:\Users\Ginadi\Desktop\ \Компютърна графика\2D_Draw_Shape-master\2D_Draw_Shape-master\bin\Debug\Draw.pdb
+C:\Users\Ginadi\Desktop\ \Компютърна графика\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\Ginadi\Desktop\ \Компютърна графика\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\Ginadi\Desktop\ \Компютърна графика\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.src.GUI.Dialog.resources
+C:\Users\Ginadi\Desktop\ \Компютърна графика\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\Ginadi\Desktop\ \Компютърна графика\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.MainForm.resources
+C:\Users\Ginadi\Desktop\ \Компютърна графика\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\Ginadi\Desktop\ \Компютърна графика\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Ginadi\Desktop\ \Компютърна графика\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.exe
+C:\Users\Ginadi\Desktop\ \Компютърна графика\2D_Draw_Shape-master\2D_Draw_Shape-master\obj\Debug\Draw.pdb
+C:\Users\Ginadi\Desktop\1601261049\trunk\CGProject\bin\Debug\Draw.exe
+C:\Users\Ginadi\Desktop\1601261049\trunk\CGProject\bin\Debug\Draw.pdb
+C:\Users\Ginadi\Desktop\1601261049\trunk\CGProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\Ginadi\Desktop\1601261049\trunk\CGProject\obj\Debug\Draw.src.GUI.Dialog.resources
+C:\Users\Ginadi\Desktop\1601261049\trunk\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\Ginadi\Desktop\1601261049\trunk\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Users\Ginadi\Desktop\1601261049\trunk\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\Ginadi\Desktop\1601261049\trunk\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Ginadi\Desktop\1601261049\trunk\CGProject\obj\Debug\Draw.exe
+C:\Users\Ginadi\Desktop\1601261049\trunk\CGProject\obj\Debug\Draw.pdb
+C:\Users\Ginadi\Desktop\1601261049\trunk\CGProject\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\#Probook#\Desktop\Informatika DRAW APP\computer-graphics-project-master\bin\Debug\Draw.exe.config
+C:\Users\#Probook#\Desktop\Informatika DRAW APP\computer-graphics-project-master\bin\Debug\Draw.exe
+C:\Users\#Probook#\Desktop\Informatika DRAW APP\computer-graphics-project-master\bin\Debug\Draw.pdb
+C:\Users\#Probook#\Desktop\Informatika DRAW APP\computer-graphics-project-master\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\#Probook#\Desktop\Informatika DRAW APP\computer-graphics-project-master\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\#Probook#\Desktop\Informatika DRAW APP\computer-graphics-project-master\obj\Debug\Draw.src.GUI.Dialog.resources
+C:\Users\#Probook#\Desktop\Informatika DRAW APP\computer-graphics-project-master\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\#Probook#\Desktop\Informatika DRAW APP\computer-graphics-project-master\obj\Debug\Draw.MainForm.resources
+C:\Users\#Probook#\Desktop\Informatika DRAW APP\computer-graphics-project-master\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Users\#Probook#\Desktop\Informatika DRAW APP\computer-graphics-project-master\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\#Probook#\Desktop\Informatika DRAW APP\computer-graphics-project-master\obj\Debug\Draw.exe
+C:\Users\#Probook#\Desktop\Informatika DRAW APP\computer-graphics-project-master\obj\Debug\Draw.pdb
+C:\Users\Miki\Desktop\fmi-pu\Drawing App\bin\Debug\Draw.exe.config
+C:\Users\Miki\Desktop\fmi-pu\Drawing App\bin\Debug\Draw.exe
+C:\Users\Miki\Desktop\fmi-pu\Drawing App\bin\Debug\Draw.pdb
+C:\Users\Miki\Desktop\fmi-pu\Drawing App\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\Miki\Desktop\fmi-pu\Drawing App\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\Miki\Desktop\fmi-pu\Drawing App\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\Miki\Desktop\fmi-pu\Drawing App\obj\Debug\Draw.MainForm.resources
+C:\Users\Miki\Desktop\fmi-pu\Drawing App\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\Miki\Desktop\fmi-pu\Drawing App\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Miki\Desktop\fmi-pu\Drawing App\obj\Debug\Draw.exe
+C:\Users\Miki\Desktop\fmi-pu\Drawing App\obj\Debug\Draw.pdb
+C:\Users\Miki\Desktop\fmi-pu\Drawing App\obj\Debug\Draw.src.GUI.AdditionalWindow.resources
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\bin\Debug\Draw.exe.config
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\bin\Debug\Draw.exe
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\bin\Debug\Draw.pdb
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\obj\Debug\Draw.Properties.Resources.resources
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\obj\Debug\Draw.src.GUI.AdditionalWindow.resources
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\obj\Debug\Draw.MainForm.resources
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\obj\Debug\Draw.exe
+C:\Plovdiv_University\Software_Engineering_2_year\Summer_Semester\GUI\obj\Debug\Draw.pdb

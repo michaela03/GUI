@@ -9,6 +9,13 @@ namespace Draw
     public class EllipseShape : Shape
     {
         #region Constructor
+        private float rotationAngle;
+        public float RotationAngle
+        {
+            get { return rotationAngle; }
+            set { rotationAngle = value; }
+        }
+
 
         public EllipseShape(RectangleF rect) : base(rect)
         {

@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Drawing;
+using System.Drawing.Drawing2D;
 
 namespace Draw
 {
-	/// <summary>
-	/// Класът правоъгълник е основен примитив, който е наследник на базовия Shape.
-	/// </summary>
-	public class RectangleShape : Shape
+    /// <summary>
+    /// Класът правоъгълник е основен примитив, който е наследник на базовия Shape.
+    /// </summary>
+    [Serializable]
+    public class RectangleShape : Shape
 	{
 		#region Constructor
 		
@@ -32,6 +34,8 @@ namespace Draw
 			if (base.Contains(point))
 				// Проверка дали е в обекта само, ако точката е в обхващащия правоъгълник.
 				// В случая на правоъгълник - директно връщаме true
+                
+
 				return true;
 			else
 				// Ако не е в обхващащия правоъгълник, то неможе да е в обекта и => false
@@ -44,25 +48,12 @@ namespace Draw
 		public override void DrawSelf(Graphics grfx)
 		{
 			base.DrawSelf(grfx);
-
-			Color color = Color.FromArgb(FillColorOpacity, FillColor);
-            
-			
-			grfx.FillRectangle(
-				new SolidBrush(color),
-				Rectangle.X, 
-				Rectangle.Y,
-				Rectangle.Width, 
-				Rectangle.Height);
-
-			grfx.DrawRectangle(
-				new Pen(BorderColor),
-				Rectangle.X, 
-				Rectangle.Y,
-				Rectangle.Width, 
-				Rectangle.Height);
-			
-
-		}
+            base.RotateShape(grfx);
+           
+            grfx.FillRectangle(new SolidBrush(Color.FromArgb(Opacity,FillColor)), Rectangle.X , Rectangle.Y, Rectangle.Width , Rectangle.Height );
+			grfx.DrawRectangle(new Pen(BorderColor,BorderWidth),Rectangle.X, Rectangle.Y , Rectangle.Width, Rectangle.Height);
+            grfx.ResetTransform();
+           
+        }
 	}
 }
